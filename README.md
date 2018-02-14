@@ -32,6 +32,7 @@
   
   励志成为一名 Full Stack Engineer（~~折腾坏一切的人~~）.
 
+  正在准备IELTS
 ---
 
 ### 技能树
@@ -50,4 +51,5 @@
 5.	Visual Studio 2017 
 6.	Keil uVision5和IAR Embedded Workbench
 7.	AutoCAD 2018与LaserWork
-8.	Endnotes文献管理工具
+8.	Endnotes
+
