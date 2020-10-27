@@ -32,7 +32,7 @@
 
 ## 部分用中文发表的论文
 
-1. 【OAPS】用于智能电网算法可视化和人机交互研究的集群硬件平台; Interactive Swarm Testbed for Smart Grid Distributed Algorithm Test and Evaluation, 2020
+1. 【OAPS】用于智能电网算法可视化和人机交互研究的集群硬件平台; Interactive Swarm Testbed for Smart Grid Distributed Algorithm Test and Evaluation, OAPS, 2020.
 2. 张庭梁,and 张凯."一道静电场好题解答的修正与反思." *中学物理* *33*.15(2015):72-73. doi:.
 
 ## 部分中国专利
@@ -165,11 +165,23 @@ SUSI是一个预防和协助心境障碍患者进行自我觉察、辅助治疗�
 
 
 
-## 开源项目链接
+## 部分开源项目链接
 
 ### [Misaka](https://github.com/TingliangZhang/Misaka)
 
 机器人软硬件笔记
+
+### [EggProject202008](https://github.com/TingliangZhang/EggProject202008)
+
+EggProject202008
+
+### [SUSI-CHI2021](https://github.com/TingliangZhang/SUSI-CHI2021)
+
+SUSI-CHI2021 Full Paper
+
+### [DIY-Monitor](https://github.com/TingliangZhang/DIY-Monitor)
+
+DIY显示器背板
 
 ### [IGBT-Driver-PCB](https://github.com/TingliangZhang/IGBT-Driver-PCB)
 
@@ -194,5 +206,40 @@ VR_Robot Project's Thesis
 
 
 
+## 部分在研项目
 
-## 在研项目
+### [Mask](https://github.com/TingliangZhang/Mask)
+
+智能口罩
+
+### [FoldingSpace](https://github.com/TingliangZhang/FoldingSpace)
+
+未来人居——折叠空间
+
+### [PaperAircraft](https://github.com/TingliangZhang/PaperAircraft)
+
+纸飞机
+
+### [UFO](https://github.com/TingliangZhang/UFO)
+
+UFO异形涵道风管飞行器
+
+### [Tina-Bird](https://github.com/TingliangZhang/Tina-Bird)
+
+仿生扑翼机
+
+### [Tina-Puppy](https://github.com/TingliangZhang/Tina-Puppy)
+
+微型四足开发
+
+### [Camera](https://github.com/TingliangZhang/Camera)
+
+相机+手机，单反替代品
+
+### [PeltierArray](https://github.com/TingliangZhang/PeltierArray)
+
+帕尔贴阵列 PCB and design
+
+### [NFC-card](https://github.com/TingliangZhang/NFC-card)
+
+NFC Business Card
