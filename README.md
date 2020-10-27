@@ -244,3 +244,33 @@ UFO异形涵道风管飞行器
 
 NFC Business Card
 
+## 部分相关视频
+
+[Misaka: Interactive Swarm Testbed](https://www.bilibili.com/video/BV1Zz4y1R76r)
+
+[基于OpenPose的无障碍出行灯光提醒装置 Demo视频](https://www.bilibili.com/video/BV11t41177tv)
+
+[NanoRobot人工智能小车Demo视频](https://www.bilibili.com/video/BV1dx411o7uq)
+
+[清华大学 基于Vive VR的遥操作机械臂 36届挑战杯获奖作品 DEMO视频 v2](https://www.bilibili.com/video/BV1kW411V7Zu)
+
+[清华大学 THU MC Minecraft 1.16.1 纯净困难生存服 开服三周纪念视频 4K](https://www.bilibili.com/video/BV1V5411a7D6)
+
+[一小时零基础入门Arduino——清华大学学生兴趣团队Arduino讲座Pre视频](https://www.bilibili.com/video/BV1uJ411c7nc)
+
+[超详细的Arduino讲座 两小时从入门到上手项目 清华大学学生兴趣团队交互十讲系列讲座第一讲](https://www.bilibili.com/video/BV1TE411k7dq)
+
+[一小时零基础前端开发教程——清华大学学生兴趣团队交互十讲系列讲座第二弹](https://www.bilibili.com/video/BV1xE41117Wj)
+
+[清华大学学生兴趣团队交互十讲系列讲座第三讲——交互设计漫谈](https://www.bilibili.com/video/BV14E411t75M)
+
+[一小时零基础前端开发教程——清华大学学生兴趣团队交互十讲系列讲座第二弹](https://www.bilibili.com/video/BV1JE411v7Bu)
+
+[一小时入门 清华大学学生兴趣团队交互十讲系列讲座第四讲——Altium Designer 19 PCB设计不完全教程（以NFC名片设计为例）](https://www.bilibili.com/video/BV12J411B7QR)
+
+[一小时零基础前端开发教程——清华大学学生兴趣团队交互十讲系列讲座第二弹 HTML/CSS/Javascript基本使用 Live版本](https://www.bilibili.com/video/BV1ZJ411B7WY)
+
+[Markdown简介 清华大学学生兴趣团队交互十讲系列讲座第五讲](https://www.bilibili.com/video/BV1UJ411i7Pu)
+
+[如何使用LATEX 排版论文 清华大学学生兴趣团队交互十讲系列讲座第六讲 一小时入门Latex](https://www.bilibili.com/video/BV1dJ411i7hU)
+
