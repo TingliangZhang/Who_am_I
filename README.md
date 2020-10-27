@@ -12,7 +12,7 @@
 ## 部分获奖（以下奖项均为一作或共一）
 
 - 清华大学第38届“挑战杯”学生课外学术科技作品竞赛 特等奖
-- 清华大学2020年校级优秀毕业设计
+- 清华大学2020年校级优秀毕业设计，论文被OAPS(Tsinghua University - Outstanding Academic Papers by Students) 全文收录。http://reserves.lib.tsinghua.edu.cn/Board/Detail/3ac4a095-1859-4842-a6b5-920d351878e3
 - 第七届ABB大学生创新大赛全国总决赛三等奖(全国前六)
 - 2020年中美青年创客大赛北京赛区 一等奖
 - 2020年中美青年创客大赛全国总决赛 优胜奖
@@ -32,7 +32,8 @@
 
 ## 部分用中文发表的论文
 
-1. 张庭梁,and 张凯."一道静电场好题解答的修正与反思." *中学物理* *33*.15(2015):72-73. doi:.
+1. 【OAPS】用于智能电网算法可视化和人机交互研究的集群硬件平台; Interactive Swarm Testbed for Smart Grid Distributed Algorithm Test and Evaluation
+2. 张庭梁,and 张凯."一道静电场好题解答的修正与反思." *中学物理* *33*.15(2015):72-73. doi:.
 
 ## 部分中国专利
 
