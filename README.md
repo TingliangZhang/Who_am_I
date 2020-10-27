@@ -33,7 +33,7 @@
 ## 部分用中文发表的论文
 
 1. 【OAPS】用于智能电网算法可视化和人机交互研究的集群硬件平台; Interactive Swarm Testbed for Smart Grid Distributed Algorithm Test and Evaluation, OAPS, 2020.
-2. 张庭梁,and 张凯."一道静电场好题解答的修正与反思." *中学物理* *33*.15(2015):72-73. doi:.
+2. 张庭梁, and 张凯. "一道静电场好题解答的修正与反思." *中学物理: 高中版* 33.8 (2015): 72-73.
 
 ## 部分中国专利
 
