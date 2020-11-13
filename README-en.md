@@ -25,6 +25,13 @@ Zhang Tingliang's main research direction is robotics, human-robot interaction d
 - 2018 China-US Maker Competition Beijing Division Second Prize
 - 2018 Internet + Innovation and Entrepreneurship Competition Beijing Top Ten Team
 
+
+
+## Part of invited lectures
+
+- 2020/11/13 Tsinghua University Issue 31 iTalk [iTalk | Doing Research in Tsinghua](https://mp.weixin.qq.com/s/5_Dp9k0547Ds7PclABqw5w)
+- 2019/7/20 DoraHacks 2019 Workshop Tutor link: [DoraHacks# Fourth Industrial Revolution# Belongs to Hacker's Festival](https://mp.weixin.qq.com/s?__biz=MzAwMjEzNzAzNQ==&mid=2650719116&idx= 1&sn=5ff8a04988840cd7785fccf762af929f)
+
 ## Part of the papers published in English
 
 1. Zhang, Tingliang, et al. "Misaka: Interactive Swarm Testbed for Smart Grid Distributed Algorithm Test and Evaluation." *2020 IEEE/IAS Industrial and Commercial Power System Asia (I&CPS Asia)*. IEEE, 2020.
