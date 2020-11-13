@@ -12,19 +12,37 @@
 ## 部分获奖（以下奖项均为一作或共一）
 
 - 清华大学第38届“挑战杯”学生课外学术科技作品竞赛 特等奖
+
 - 清华大学2020年校级优秀毕业设计，论文被[OAPS](http://reserves.lib.tsinghua.edu.cn/Board/Detail/3ac4a095-1859-4842-a6b5-920d351878e3)(Tsinghua University - Outstanding Academic Papers by Students) 全文收录。
+
 - 第七届ABB大学生创新大赛全国总决赛三等奖(全国前六)
+
 - 2020年中美青年创客大赛北京赛区 一等奖
+
 - 2020年中美青年创客大赛全国总决赛 优胜奖
+
 - 2020年中美青年创客大赛北京赛区 三等奖
+
 - Junction 2019 HEALTHTECH Track Top 8
+
 - 2019年中美创客大赛北京赛区优胜奖
+
 - 清华大学第 36 届挑战杯二等奖
+
 - 清华大学第 36 届挑战杯最佳新秀奖
+
 - “MoPaaS 杯”首届清华 iCenter 人工智能挑战赛冠军
+
 - 2018年中美创客大赛北京赛区二等奖
 
 - 2018年互联网 + 创新创业大赛北京市十佳团队
+
+  
+
+## 部分受邀讲座
+
+- 2020/11/13 清华大学第31期iTalk [iTalk | Doing Research in Tsinghua](https://mp.weixin.qq.com/s/5_Dp9k0547Ds7PclABqw5w)
+- 2019/7/20 DoraHacks 2019 Workshop Tutor 链接：[DoraHacks#第四次工业革命# 属于Hacker的节日](https://mp.weixin.qq.com/s?__biz=MzAwMjEzNzAzNQ==&mid=2650719116&idx=1&sn=5ff8a04988840cd7785fccf762af929f)
 
 ## 部分用英文发表的论文
 
